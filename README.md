@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/dcead336-3c0d-4426-9177-446f4052eb18)# Chennai-House-Price-Prediction
+# Chennai-House-Price-Prediction
 
 ## Project Overview
 This project aims to predict house prices in Chennai using various regression models. The dataset contains details about properties, and the goal is to build a predictive model to estimate house prices based on features like location, area, and other relevant factors.
